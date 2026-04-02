@@ -1,0 +1,5 @@
+{
+  "name": "Nursing AI Assistant",
+  "description": "AI assistant specialized in Egyptian Nursing School curriculum (Fundamentals of Nursing, Biology, and Social Studies).",
+  "requestFramePermissions": ["microphone"]
+}
